@@ -110,6 +110,16 @@ python inference.py
 
 Press **`q`** to quit the webcam window.
 
+### 6. Streamlit Frontend
+
+You can run a browser-based frontend with Streamlit:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+For single-cloud hosting steps, see [`HOSTING_SINGLE_CLOUD.md`](HOSTING_SINGLE_CLOUD.md).
+
 ---
 
 ## 🧠 Model Architecture
